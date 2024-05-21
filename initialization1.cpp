@@ -22,7 +22,7 @@ mahasiswa(int pId, string pNama, float pNilai) :id(pId), nama(pNama), nilai(pNil
 };
 
 int main() {
-    mahasiswa mhs(12, "asroni" , 90.5);
+    mahasiswa mhs(12, "Asroni" , 90.5);
     return 0;
 }
 
